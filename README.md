@@ -17,36 +17,6 @@ I am a technical-first **Multi-Paradigm Developer** specializing in bridging the
 
 ---
 
-### 🏗️ Technical Ecosystem (Modern Multi-Paradigm)
-
-My work spans multiple architectural worlds, allowing me to build for any platform with cutting-edge tech:
-
-```mermaid
-graph TD
-    subgraph "Enterprise Web (medimart.adv)"
-        M_User((User)) -- HTTP --> Express[Express.js Server]
-        Express -- MVC Logic --> Seq[Sequelize ORM]
-        Seq --> Postgres[(PostgreSQL)]
-    end
-
-    subgraph "Cyber-Physical & Native (aplikasi-mirror)"
-        AM_User((User)) -- Capacitor --> CV_App[Next.js + TF.js]
-        CV_App -- Realtime Vision --> MediaPipe[MediaPipe Face Mesh]
-        CV_App -- Native API --> Cap[Android / iOS / Electron]
-    end
-
-    subgraph "Multi-Platform AI (ai-image-gen-app)"
-        A_User((User)) -- Flutter --> Dart[Dart/Flutter Core]
-        Dart -- Supabase SDK --> SupaM[Supabase Mobile]
-        Dart -- Generative AI --> DALL_E[DALL-E Image Gen]
-    end
-
-    Express -.-> CV_App
-    CV_App -.-> Dart
-```
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <div align="left">
