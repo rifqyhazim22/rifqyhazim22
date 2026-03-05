@@ -1,14 +1,14 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there! I'm Rifqy Hazim
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Cross-Platform+Developer;Next.js+%2B+Flutter+%2B+Capacitor+Specialist;AI+%26+Computer+Vision+Integration;Node.js+%26+PostgreSQL+Architect;Building+Web,+Mobile,+and+Desktop+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Cross-Platform+Developer;Next.js+%2B+Flutter+%2B+Capacitor+Vibe+Coder;AI+%26+Computer+Vision+Integration;Node.js+%26+PostgreSQL+Vibe+Coder;Building+Web,+Mobile,+and+Desktop+Apps+with+Vibe" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I am a technical-first **Multi-Paradigm Developer** specializing in bridging the gap between robust backend systems, premium web experiences, and AI-driven cross-platform applications. My expertise spans from building enterprise-grade marketplaces with **Clean Architecture** to crafting high-performance, **Computer Vision** enabled ecosystems.
+I am a technical-first **Multi-Paradigm Developer, AI Native Engineer** specializing in bridging the gap between robust backend systems, premium web experiences, and AI-driven cross-platform applications. My expertise spans from building enterprise-grade marketplaces with **Clean Architecture** to crafting high-performance, **Machine Learning & AI** enabled ecosystems.
 
 - 🛠️ Currently evolving **[MediMart.adv](https://github.com/rifqyhazim22/medimart.adv)** (Clean MVC), **[aplikasi-mirror](https://github.com/rifqyhazim22/aplikasi-mirror)** (Next.js/TensorFlow), and **[ai-image-gen-app](https://github.com/rifqyhazim22/ai-image-gen-app)** (Flutter/AI).
 - 📐 Expert in **Next.js App Router**, **Flutter/Dart**, and **Capacitor** for Native Mobile & Desktop (Electron).
@@ -36,7 +36,7 @@ I am a technical-first **Multi-Paradigm Developer** specializing in bridging the
 
 - **[aplikasi-mirror](https://github.com/rifqyhazim22/aplikasi-mirror)**: A cutting-edge **Next.js** application using **TensorFlow.js** and **MediaPipe** for real-time face tracking, wrapped with **Capacitor** for Android, iOS, and Electron.
 - **[MediMart.adv](https://github.com/rifqyhazim22/medimart.adv)**: Enterprise health marketplace focusing on secure transactions and role-based management.
-- **[ai-image-gen-app](https://github.com/rifqyhazim22/ai-image-gen-app)**: A powerful **Flutter** mobile application integrated with **DALL-E** and **Supabase** for real-time AI image generation.
+- **[ai-image-gen-app](https://github.com/rifqyhazim22/ai-image-gen-app)**: A powerful **Flutter** mobile application integrated with **OpenAI-Image-Gen** and **Supabase** for real-time AI image generation.
 - **[Rifqy-Portofolio](https://github.com/rifqyhazim22/Rifqy-Portofolio)**: High-end Next.js showcase featuring interactive nodes via ReactFlow and AI-assisted UX.
 
 ---
@@ -61,10 +61,10 @@ I am a technical-first **Multi-Paradigm Developer** specializing in bridging the
 ### 📫 Get In Touch
 
 <div align="left">
-  <a href="mailto:rifqyhazim@email.com">
+  <a href="mailto:rifqyhazim22@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/rifqyhazim22">
+  <a href="https://www.linkedin.com/in/rifqy-hazim-h-r-88963128a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
