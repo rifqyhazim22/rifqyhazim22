@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'README.md'
-  workflow_dispatch: # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
 
 jobs:
   translate:
@@ -28,13 +28,13 @@ jobs:
       - name: Install dependencies
         run: pip install deep-translator
 
-      - name: Translate English section → Indonesian section in README.md
+      - name: Translate README.md → README_id.md
         run: python scripts/translate_readme.py
 
-      - name: Commit and push updated README.md
+      - name: Commit and push README_id.md
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --staged --quiet || git commit -m "chore: auto-translate README Indonesian section [skip ci]"
+          git add README_id.md
+          git diff --staged --quiet || git commit -m "chore: auto-translate README to Indonesian [skip ci]"
           git push
