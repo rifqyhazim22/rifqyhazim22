@@ -28,13 +28,13 @@ jobs:
       - name: Install dependencies
         run: pip install deep-translator
 
-      - name: Translate README.md → README_id.md
+      - name: Translate English section → Indonesian section in README.md
         run: python scripts/translate_readme.py
 
-      - name: Commit and push README_id.md
+      - name: Commit and push updated README.md
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README_id.md
-          git diff --staged --quiet || git commit -m "chore: auto-translate README to Indonesian [skip ci]"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: auto-translate README Indonesian section [skip ci]"
           git push
