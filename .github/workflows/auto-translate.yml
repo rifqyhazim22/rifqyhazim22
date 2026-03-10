@@ -1,0 +1,40 @@
+name: Auto-Translate README to Indonesian
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+  workflow_dispatch: # Allow manual trigger from GitHub Actions tab
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install deep-translator
+
+      - name: Translate README.md → README_id.md
+        run: python scripts/translate_readme.py
+
+      - name: Commit and push README_id.md
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README_id.md
+          git diff --staged --quiet || git commit -m "chore: auto-translate README to Indonesian [skip ci]"
+          git push
