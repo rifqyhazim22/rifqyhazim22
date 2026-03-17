@@ -3,11 +3,9 @@ name: GitHub Metrics
 on:
   schedule:
     - cron: '0 0 * * *'  # Update daily at midnight UTC
-  workflow_dispatch:       # Allow manual trigger
+  workflow_dispatch:       # Allow manual trigger from Actions tab
   push:
-    branches: [main]
-    paths:
-      - '.github/workflows/metrics.yml'
+    branches: [main]      # Run on every push to main
 
 jobs:
   github-metrics:
@@ -40,5 +38,5 @@ jobs:
           config_timezone: Asia/Jakarta
           config_padding: 6%
 
-          # Output to repo
+          # Commit message
           committer_message: "chore: update github-metrics.svg [skip ci]"
