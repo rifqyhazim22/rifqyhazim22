@@ -12,6 +12,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Cross-Platform+Developer;Next.js+%2B+Flutter+%2B+Capacitor+Vibe+Coder;AI+%26+Computer+Vision+Integration;Node.js+%26+PostgreSQL+Vibe+Coder;Building+Web,+Mobile,+and+Desktop+Apps+with+Vibe" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rifqyhazim22&label=Profile+Views&color=0891b2&style=flat-square" alt="Profile Views" />
+</div>
+
 ---
 
 ### 🚀 Tentang Saya
@@ -39,8 +43,7 @@ Saya adalah **Pengembang Multi-Paradigma, Insinyur Asli AI** yang mengutamakan t
 
 ### 📊 Statistik & Aktivitas GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifqyhazim22&show_icons=true&theme=tokyonight&count_private=true" alt="Rifqy's GitHub Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqyhazim22&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="192px" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
