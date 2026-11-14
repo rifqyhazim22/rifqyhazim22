@@ -20,7 +20,7 @@
 
 I am a technical-first **Multi-Paradigm Developer, AI Native Engineer** specializing in bridging the gap between robust backend systems, premium web experiences, and AI-driven cross-platform applications. My expertise spans from building enterprise-grade marketplaces with **Clean Architecture** to crafting high-performance, **Machine Learning & AI** enabled ecosystems.
 
-- 🛠️ Currently evolving **[MediMart.adv](https://github.com/rifqyhazim22/medimart.adv)** (Clean MVC), **[aplikasi-mirror](https://github.com/rifqyhazim22/aplikasi-mirror)** (Next.js/TensorFlow), and **[ai-image-gen-app](https://github.com/rifqyhazim22/ai-image-gen-app)** (Flutter/AI).
+- 🛠️ Currently evolving **[rifqyhazim](https://rifqyhazim.vercel.app)** ([repo](https://github.com/rifqyhazim22/rifqyhazim)).
 - 📐 Expert in **Next.js App Router**, **Flutter/Dart**, and **Capacitor** for Native Mobile & Desktop (Electron).
 - ⚡ Focused on **AI-Driven UX**, **Real-time Computer Vision**, and **User-Centric DX**.
 - 🔐 Skilled in **Supabase**, **TensorFlow.js**, **MediaPipe**, **OpenAI API**, and **ReactFlow**.
@@ -76,10 +76,7 @@ I am a technical-first **Multi-Paradigm Developer, AI Native Engineer** speciali
 
 ### 🌟 Featured Projects
 
-- **[aplikasi-mirror](https://github.com/rifqyhazim22/aplikasi-mirror)**: A cutting-edge **Next.js** application using **TensorFlow.js** and **MediaPipe** for real-time face tracking, wrapped with **Capacitor** for Android, iOS, and Electron.
-- **[MediMart.adv](https://github.com/rifqyhazim22/medimart.adv)**: Enterprise health marketplace focusing on secure transactions and role-based management.
-- **[ai-image-gen-app](https://github.com/rifqyhazim22/ai-image-gen-app)**: A powerful **Flutter** mobile application integrated with **OpenAI-Image-Gen** and **Supabase** for real-time AI image generation.
-- **[Rifqy-Portofolio](https://github.com/rifqyhazim22/Rifqy-Portofolio)**: High-end Next.js showcase featuring interactive nodes via ReactFlow and AI-assisted UX.
+- **[rifqyhazim](https://rifqyhazim.vercel.app)** ([repo](https://github.com/rifqyhazim22/rifqyhazim)): Personal site and portfolio.
 
 ---
 
