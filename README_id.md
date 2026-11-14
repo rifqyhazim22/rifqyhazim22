@@ -7,111 +7,161 @@
 > ⚙️ *File ini di-generate otomatis oleh GitHub Actions dari `README.md`. Jangan edit manual.*
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there! I'm Rifqy Hazim
+<a href="https://rifqyhazim.vercel.app">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:0e7490,100:f97316&height=220&section=header&text=Rifqy%20Hazim&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Ads%20%26amp%3B%20E-commerce%20Specialist%20%C2%B7%20AI%20Agent%20Orchestrator&descAlignY=58&descSize=18&animation=fadeIn" alt="Rifqy Hazim · Ads & E-commerce Specialist · AI Agent Orchestrator" />
+</a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Cross-Platform+Developer;Next.js+%2B+Flutter+%2B+Capacitor+Vibe+Coder;AI+%26+Computer+Vision+Integration;Node.js+%26+PostgreSQL+Vibe+Coder;Building+Web,+Mobile,+and+Desktop+Apps+with+Vibe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Numbers+from+invoices%2C+not+vibes.;Scaling+3+marketplace+stores+on+Shopee+%26+TikTok.;Real+ROAS+above+break-even%2C+every+month.;Agents+keep+the+rhythm.+I+make+the+calls." alt="Numbers from invoices, not vibes." />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rifqyhazim22&label=Profile+Views&color=0891b2&style=flat-square" alt="Profile Views" />
+  <a href="https://rifqyhazim.vercel.app"><img src="https://img.shields.io/badge/rifqyhazim.vercel.app-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/rifqyhazim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/~01e5a18464e476bfa5"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="mailto:rifqyhazim22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rifqyhazim22&label=views&color=0e7490&style=flat-square" alt="Profile views" />
+</div>
+
+<br />
+
+<div align="center"><i>“Ad astra abyssosque” · to the stars, to the abyss.</i></div>
+
+---
+
+### 🪞 Two versions of me, one desk
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📈 The Ads Version</h4>
+      Runs ads and sales for <b>3 marketplace stores</b> on Shopee and Tokopedia/TikTok.<br /><br />
+      ROAS is calculated from <b>real invoices</b>, not just the ads dashboard, and every campaign is measured against a clear break-even target.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 The Agent Version</h4>
+      Designs and directs an <b>AI agent team</b> that handles the daily store operations.<br /><br />
+      The agents check, log, and report. The decisions stay with me.
+    </td>
+  </tr>
+</table>
+
+> 📍 **Now (Nov 2026):** running marketplace ads and sales with an AI agent team I built myself, and taking freelance work as an **AI Agent Orchestrator & Data Specialist**.
+
+---
+
+### 🧾 Receipts, not vibes
+
+<div align="center">
+
+| 3.20× | 5.82 | +86.8% |
+|:---:|:---:|:---:|
+| average real revenue / month | real ROAS, above break-even every month | invoices / month |
+| **168** | **6** | **34 / 73** |
+| data entry errors caught | automated routines | Sheets files / tabs connected |
+
+<sub>Shopee Ads &amp; GMV Max scale-up across 3 marketplace stores, 2026. Full case study on <a href="https://rifqyhazim.vercel.app/en/">the site</a>.</sub>
+
 </div>
 
 ---
 
-### 🚀 About Me
+### ⚙️ How I work
 
-I am a technical-first **Multi-Paradigm Developer, AI Native Engineer** specializing in bridging the gap between robust backend systems, premium web experiences, and AI-driven cross-platform applications. My expertise spans from building enterprise-grade marketplaces with **Clean Architecture** to crafting high-performance, **Machine Learning & AI** enabled ecosystems.
-
-- 🛠️ Currently evolving **[rifqyhazim](https://rifqyhazim.vercel.app)** ([repo](https://github.com/rifqyhazim22/rifqyhazim)).
-- 📐 Expert in **Next.js App Router**, **Flutter/Dart**, and **Capacitor** for Native Mobile & Desktop (Electron).
-- ⚡ Focused on **AI-Driven UX**, **Real-time Computer Vision**, and **User-Centric DX**.
-- 🔐 Skilled in **Supabase**, **TensorFlow.js**, **MediaPipe**, **OpenAI API**, and **ReactFlow**.
+1. **Numbers from invoices, not vibes.** Real ROAS comes from real invoices and gets checked against break-even.
+2. **Log the gaps, never guess.** Missing data is recorded as is. Closed data only changes after I approve it.
+3. **Agents keep the rhythm, I make the calls.** The agent team checks and reports; the decisions stay human.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧰 Toolkit
 
-<div align="left">
+<div align="center">
 
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+**Ads & marketplace**
 
-  <!-- Web Frameworks -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+<img src="https://img.shields.io/badge/Shopee_Ads-EE4D2D?style=for-the-badge&logo=shopee&logoColor=white" alt="Shopee Ads" />
+<img src="https://img.shields.io/badge/Tokopedia%20%2F%20TikTok-GMV_Max-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tokopedia / TikTok GMV Max" />
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
 
-  <!-- Mobile & Cross-Platform -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
+**AI & automation**
 
-  <!-- Styling -->
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agent_Orchestration-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agent Orchestration" />
+<img src="https://img.shields.io/badge/Automated_Routines-0E7490?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automated Routines" />
+<img src="https://img.shields.io/badge/Prompt_%26_Context_Engineering-111827?style=for-the-badge" alt="Prompt & Context Engineering" />
 
-  <!-- Runtime & Database -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
+**Web (for the things I ship myself)**
 
-  <!-- Cloud & BaaS -->
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-  <!-- AI & ML -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
-  <!-- Libraries & Tools -->
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactFlow-FF0072?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=js,vite,threejs,vercel,github&theme=dark" alt="JavaScript, Vite, Three.js, Vercel, GitHub" />
 
 </div>
 
+---
+
+### 🌟 Featured project
+
+<table>
+  <tr>
+    <td width="45%" valign="middle">
+      <a href="https://rifqyhazim.vercel.app"><img src="https://rifqyhazim.vercel.app/og-image-en.png" alt="rifqyhazim.vercel.app preview" width="100%" /></a>
+    </td>
+    <td width="55%" valign="top">
+      <h4><a href="https://rifqyhazim.vercel.app">rifqyhazim.vercel.app</a></h4>
+      My personal site: two versions of me on one desk, with case studies, a journey timeline, and a bilingual ID / EN switch.<br /><br />
+      Built with Vite, Three.js and GSAP, deployed on Vercel.<br /><br />
+      <a href="https://github.com/rifqyhazim22/rifqyhazim">📂 Source</a> · <a href="https://rifqyhazim.vercel.app/en/">🌐 English</a> · <a href="https://rifqyhazim.vercel.app/cv/CV-Rifqy-Hazim-2026.pdf">📄 CV</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌟 Featured Projects
+### 🧭 Journey
 
-- **[rifqyhazim](https://rifqyhazim.vercel.app)** ([repo](https://github.com/rifqyhazim22/rifqyhazim)): Personal site and portfolio.
+<details>
+<summary><b>Open the timeline</b></summary>
+<br />
+
+| When | Where | Role |
+|---|---|---|
+| Apr 2026 – now | Private company · 3 marketplace stores | Ads & E-commerce Specialist · Vice Director (Freelance, Hybrid) |
+| Jan – Mar 2026 | Hacktiv8 | Full Stack Developer Bootcamp (participation certificate) |
+| Jul – Nov 2025 | The Social Linked | AI Content Creator · Prompt & Context Engineer |
+| Apr – May 2025 | PT. Lautan Berlian Utama Motors (Mitsubishi) | Intern Sales Consultant |
+| Sep 2024 – Apr 2026 | Private company | Strategy & Networking / Vice Director / Marketing Executive |
+| 2022 – 2025 | UIN Syarif Hidayatullah Jakarta, FDI | Education |
+
+</details>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 On GitHub
 
 <div align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rifqyhazim22/rifqyhazim22/output/github-contribution-grid-snake.svg" alt="Snake Graphics" />
-</div>
-
----
-
-### 📫 Get In Touch
-
-<div align="left">
-  <a href="mailto:rifqyhazim22@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rifqy-hazim-h-r-88963128a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifqyhazim22/rifqyhazim22/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifqyhazim22/rifqyhazim22/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/rifqyhazim22/rifqyhazim22/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
 </div>
+
+---
+
+### 💬 Let's talk
+
+Got a brief, a store, or an agent idea? Just send it. Based in Jakarta, Indonesia.
+
+<div align="center">
+  <a href="https://rifqyhazim.vercel.app"><img src="https://img.shields.io/badge/Visit_the_site-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit the site" /></a>
+  <a href="https://www.linkedin.com/in/rifqyhazim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/~01e5a18464e476bfa5"><img src="https://img.shields.io/badge/Hire_me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="mailto:rifqyhazim22@gmail.com"><img src="https://img.shields.io/badge/rifqyhazim22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,45:0e7490,100:0f172a&height=120&section=footer" alt="" />
