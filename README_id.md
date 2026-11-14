@@ -7,7 +7,8 @@
 > ⚙️ *File ini di-generate otomatis oleh GitHub Actions dari `README.md`. Jangan edit manual.*
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Halo! Saya Rifqy Hazim
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there! I'm Rifqy Hazim
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Cross-Platform+Developer;Next.js+%2B+Flutter+%2B+Capacitor+Vibe+Coder;AI+%26+Computer+Vision+Integration;Node.js+%26+PostgreSQL+Vibe+Coder;Building+Web,+Mobile,+and+Desktop+Apps+with+Vibe" alt="Typing SVG" />
 </div>
@@ -18,12 +19,19 @@
 
 ---
 
-### 🚀 Tentang Saya
-Saya adalah **Pengembang Multi-Paradigma, Insinyur Asli AI** yang mengutamakan teknis dalam menjembatani kesenjangan antara sistem backend yang kuat, pengalaman web premium, dan aplikasi lintas platform berbasis AI. Keahlian saya mencakup mulai dari membangun pasar tingkat perusahaan dengan **Arsitektur Bersih** hingga menciptakan ekosistem berperforma tinggi, **Machine Learning & AI**.
-- 🛠️ Saat ini berkembang **[MediMart.adv](https://github.com/rifqyhazim22/medimart.adv)** (Clean MVC), **[aplikasi-mirror](https://github.com/rifqyhazim22/aplikasi-mirror)** (Next.js/TensorFlow), dan **[ai-image-gen-app](https://github.com/rifqyhazim22/ai-image-gen-app)** (Flutter/AI).- 📐 Ahli dalam **Next.js App Router**, **Flutter/Dart**, dan **Capacitor** untuk Native Mobile & Desktop (Electron).- ⚡ Berfokus pada **UX Berbasis AI**, **Visi Komputer Real-time**, dan **DX yang Berpusat pada Pengguna**.- 🔐 Terampil dalam **Supabase**, **TensorFlow.js**, **MediaPipe**, **OpenAI API**, dan **ReactFlow**.
+### 🚀 About Me
+
+I am a technical-first **Multi-Paradigm Developer, AI Native Engineer** specializing in bridging the gap between robust backend systems, premium web experiences, and AI-driven cross-platform applications. My expertise spans from building enterprise-grade marketplaces with **Clean Architecture** to crafting high-performance, **Machine Learning & AI** enabled ecosystems.
+
+- 🛠️ Currently evolving **[rifqyhazim](https://rifqyhazim.vercel.app)** ([repo](https://github.com/rifqyhazim22/rifqyhazim)).
+- 📐 Expert in **Next.js App Router**, **Flutter/Dart**, and **Capacitor** for Native Mobile & Desktop (Electron).
+- ⚡ Focused on **AI-Driven UX**, **Real-time Computer Vision**, and **User-Centric DX**.
+- 🔐 Skilled in **Supabase**, **TensorFlow.js**, **MediaPipe**, **OpenAI API**, and **ReactFlow**.
+
 ---
 
-### 🛠️ Tumpukan & Alat Teknologi
+### 🛠️ Tech Stack & Tools
+
 <div align="left">
 
   <!-- Languages -->
@@ -69,25 +77,30 @@ Saya adalah **Pengembang Multi-Paradigma, Insinyur Asli AI** yang mengutamakan t
 
 ---
 
-### 🌟 Proyek Unggulan
-- **[aplikasi-mirror](https://github.com/rifqyhazim22/aplikasi-mirror)**: Aplikasi **Next.js** mutakhir yang menggunakan **TensorFlow.js** dan **MediaPipe** untuk pelacakan wajah real-time, dibungkus dengan **Capacitor** untuk Android, iOS, dan Electron.- **[MediMart.adv](https://github.com/rifqyhazim22/medimart.adv)**: Pasar kesehatan perusahaan yang berfokus pada transaksi aman dan manajemen berbasis peran.- **[ai-image-gen-app](https://github.com/rifqyhazim22/ai-image-gen-app)**: Aplikasi seluler **Flutter** canggih yang terintegrasi dengan **OpenAI-Image-Gen** dan **Supabase** untuk pembuatan gambar AI real-time.- **[Rifqy-Portofolio](https://github.com/rifqyhazim22/Rifqy-Portofolio)**: Pameran Next.js kelas atas yang menampilkan node interaktif melalui ReactFlow dan UX yang dibantu AI.
+### 🌟 Featured Projects
+
+- **[rifqyhazim](https://rifqyhazim.vercel.app)** ([repo](https://github.com/rifqyhazim22/rifqyhazim)): Personal site and portfolio.
+
 ---
 
-### 📊 Statistik & Aktivitas GitHub
+### 📊 GitHub Stats & Activity
+
 <div align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
 
-### 🐍 Aktivitas Kontribusi
+### 🐍 Contribution Activity
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/rifqyhazim22/rifqyhazim22/output/github-contribution-grid-snake.svg" alt="Snake Graphics" />
 </div>
 
 ---
 
-### 📫 Hubungi Kami
+### 📫 Get In Touch
+
 <div align="left">
   <a href="mailto:rifqyhazim22@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
