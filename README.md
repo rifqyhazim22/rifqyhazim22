@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-> 📍 **Now (Nov 2026):** running marketplace ads and sales with an AI agent team I built myself, and taking freelance work as an **AI Agent Orchestrator & Data Specialist**.
+> 📍 **Now (Nov 2026):** I'm currently in Ads Operation at The Circle Digital (TCD), hybrid (since 16 Nov 2026), while freelancing on marketplace ads and directing an AI-agent team.
 
 ---
 
@@ -121,11 +121,12 @@
 
 | When | Where | Role |
 |---|---|---|
-| Apr 2026 – now | Private company · 3 marketplace stores | Ads & E-commerce Specialist · Vice Director (Freelance, Hybrid) |
+| Nov 2026 – present | The Circle Digital (TCD) | Ads Operation · Full-time · Hybrid |
+| Apr 2026 – present | Tiga Pilar Utama Karya Sentosa | Ads & E-commerce Specialist · Freelance |
 | Jan – Mar 2026 | Hacktiv8 | Full Stack Developer Bootcamp (participation certificate) |
 | Jul – Nov 2025 | The Social Linked | AI Content Creator · Prompt & Context Engineer |
 | Apr – May 2025 | PT. Lautan Berlian Utama Motors (Mitsubishi) | Intern Sales Consultant |
-| Sep 2024 – Apr 2026 | Private company | Strategy & Networking / Vice Director / Marketing Executive |
+| Sep 2024 – Apr 2026 | Tiga Pilar Utama Karya Sentosa | Strategy & Networking / Vice Director / Marketing Executive |
 | 2022 – 2025 | UIN Syarif Hidayatullah Jakarta, FDI | Education |
 
 </details>
